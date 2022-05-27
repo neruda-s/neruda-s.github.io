@@ -1,0 +1,13 @@
+body
+{
+  color: blue;
+}
+p{
+  color: #35658e;
+  font-size : 22 px;
+  font-family : Arial;
+  font-weight: bold;
+}
+img{
+  margin-left: 30PX;
+}
